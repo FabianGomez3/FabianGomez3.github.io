@@ -18,3 +18,7 @@ My GitHub page is http://github.com/FabianGomez3.
 
     Lab 7, I enjoyed this lab because it was very challenging to do considering the many factors that the signs gave us. There were many if statements that had to be implemented and it involved us using AND/OR which is something new. Oveall my group also made the lab interesting and fun which is why this lab is one of my favorites. 
 
+* Lab - 12
+    Lab 12, I enjoyed this lab because of the fact we were playing with colors and procedural generating. It wasm't easy, but thats what made it fun and with a partner it made it less stressful to achieve. It really brought everything I've learned all together.
+
+![Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenN5aThrNHUwZWlzanZ2NnJ4bGIxd3ZlMmJoeHV3NjFyaDdpdDVnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
